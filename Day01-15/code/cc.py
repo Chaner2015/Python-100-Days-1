@@ -7,7 +7,7 @@ Version: 0.1
 Author: 骆昊
 """
 from random import randint
-from time import sleep
+# from time import sleep
 from math import sqrt
 
 
